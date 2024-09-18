@@ -8,7 +8,7 @@
 (Screenshot of: [https://oldweb.today/?browser=ns3-mac#19960101/http://geocities.com/](https://oldweb.today/?browser=ns3-mac#19960101/http://geocities.com/))
 
 
-OldWeb.today allows users to browse the web using one of several emulated browsers as well as a Flash emulator, all running fully in the browser!
+OldWeb.today allows   users to browse the web using one of several emulated browsers as well as a Flash emulator, all running fully in the browser!
 
 Enter a URL, choose a archival date, and select a browser to start!
 
